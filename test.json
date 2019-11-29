@@ -1,0 +1,20 @@
+Block Definition: 
+{
+  "type": "ciao",
+  "message0": "%1 %2",
+  "args0": [
+    {
+      "type": "field_label_serializable",
+      "name": "lkmlAME",
+      "text": "ssss"
+    },
+    {
+      "type": "input_statement",
+      "name": "asME",
+      "check": "Number"
+    }
+  ],
+  "colour": 230,
+  "tooltip": "",
+  "helpUrl": ""
+}
